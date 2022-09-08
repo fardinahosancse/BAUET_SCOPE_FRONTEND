@@ -1,0 +1,135 @@
+/* Google Fonts Import Link */
+@import url("http://fonts.cdnfonts.com/css/bahnschrift");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Bahnschrift", sans-serif;
+}
+
+
+.BAUET_SCOPE_LOGO_2 {
+  padding-bottom: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  display: flex;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.auth-form_log {
+  max-width: 800px;
+  height: 650px;
+  margin: 40px auto;
+  padding: 40px;
+  color: #a0a4b1;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px rgba(36, 216, 126, 0.05);
+
+  font-size: 10px;
+  margin-top: 140px;
+  background-image: linear-gradient(to top, #209cff 0%, #68e0cf 100%);background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+
+
+
+.btn {
+  font-size: 10px;
+  position: absolute;
+  left: 45%;
+  bottom: 90px;
+}
+
+label,
+input {
+  display: block;
+}
+
+label {
+  margin-bottom: 15px;
+}
+
+.auth-form_log
+input[type="email"],
+input[type="text"],
+.auth-form_log input[type="password"] {
+  border: 0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 3px solid #1975f9;
+  padding: 16px 0px;
+  height: 70px;
+  width: 300px;
+  outline: white;
+  color: rgb(66, 24, 24);
+  border-radius: 24px;
+  transition: 0.25px;
+  font-size: 23px;
+}
+
+
+
+
+.auth-form_log input[type="submit"] {
+  border: 0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 3px solid #e07d50;
+  padding: 5px 0px;
+  height: 50px;
+  width: 200px;
+  outline: white;
+  color: rgb(66, 24, 24);
+  border-radius: 24px;
+  transition: 0.25px;
+}
+
+.auth-form_log input[type="submit"]:hover {
+  color: white;
+  background: #f9b219;
+}
+
+.auth-form_log h2 {
+  font-size: 15px;
+  text-align: center;
+
+  padding-bottom: 10px;
+  color: #1975f9;
+}
+
+.auth-form_log h4 {
+  font-size: 12px;
+  text-align: center;
+  padding-bottom: 5px;
+  color: #848a92;
+}
+
+
+
+.sign_in_button{
+  border: 0;
+  background: none;
+  display: block;
+  margin: 30px auto;
+  text-align: center;
+  border: 3px solid #1975f9;
+  padding: 5px 0px;
+  height: 70px;
+  width: 100px;
+  outline: white;
+  color: rgb(66, 24, 24);
+  border-radius: 24px;
+  transition: 0.25px;
+  cursor: pointer;
+
+}
