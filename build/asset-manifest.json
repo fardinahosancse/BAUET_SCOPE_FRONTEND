@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55d10aa9.css",
+    "main.js": "/static/js/main.5d3ce303.js",
+    "static/media/intro.png": "/static/media/intro.8c1f87f3f7f61e969f64.png",
+    "static/media/logo.png": "/static/media/logo.e0eef4c5deeb07281774.png",
+    "static/media/fardin.png": "/static/media/fardin.0a873f2d707b1664fd84.png",
+    "static/media/switchToScreenSharing.svg": "/static/media/switchToScreenSharing.af807573463ce8fedc794d979f3a0f8c.svg",
+    "static/media/micOff.svg": "/static/media/micOff.e9ff196e13aaa3c790c1f9a8306e8922.svg",
+    "static/media/mic.svg": "/static/media/mic.7a73c4c907d98f45e1b1e2ded1ac3011.svg",
+    "static/media/cameraOff.svg": "/static/media/cameraOff.70f163455f7a24da32c4eb3bd6a7ae12.svg",
+    "static/media/camera.svg": "/static/media/camera.618153deed9ab51dcb44d5010db77334.svg",
+    "index.html": "/index.html",
+    "static/media/sendMessageButton.svg": "/static/media/sendMessageButton.21b28e18aabba56be418b7a915efbeeb.svg",
+    "main.55d10aa9.css.map": "/static/css/main.55d10aa9.css.map",
+    "main.5d3ce303.js.map": "/static/js/main.5d3ce303.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55d10aa9.css",
+    "static/js/main.5d3ce303.js"
+  ]
+}
