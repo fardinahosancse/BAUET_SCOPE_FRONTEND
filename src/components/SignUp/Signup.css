@@ -209,6 +209,49 @@ input[type="file"] {
 
 }
 
+.skip_button{
+  
+  border: 0;
+  background-image: linear-gradient(to right, #df7614 0%, #af7655  51%, #c2a72f  100%);
+  display: block;
+  margin: 30px auto;
+  text-align: center;
+  padding: 5px 0px;
+  height: 30px;
+  width: 100px;
+  outline: white;
+  color: rgb(66, 24, 24);
+  border-radius: 24px;
+  transition: 0.25px;
+  cursor: pointer;
+ 
+
+}
+
+
+
+         
+.btn-grad {
+  background-image: linear-gradient(to right, #00C9FF 0%, #92FE9D  51%, #00C9FF  100%);
+  margin: 10px;
+  padding: 15px 45px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;            
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+  display: block;
+}
+
+.btn-grad:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+
 .randomizer{
   border: 0;
   background: none;

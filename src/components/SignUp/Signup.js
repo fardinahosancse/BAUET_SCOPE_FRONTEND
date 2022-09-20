@@ -137,7 +137,11 @@ const handleRadmomizer = () =>{
           </button>
         </Link>
 
-      
+        <Link to="/nav">
+          <button type="button" className="skip_button">
+          
+          </button>
+        </Link>
         
       </form>
 
