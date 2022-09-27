@@ -30,10 +30,10 @@ function SideNavbar() {
       <div className="pika_chu">
         <div>
           <div className="bauet">
-            <h1>BAUET</h1>
+            <h1>SYNC</h1>
           </div>
           <div className="scope">
-            <h1>SCOPE</h1>
+            <h1></h1>
           </div>
         </div>
       </div>
