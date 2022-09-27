@@ -31,9 +31,9 @@ useEffect(()=>{
         <div className="containter">
           <Routes>
 
-          <Route exact path="/" element={<Signup/>}/>
+          <Route exact path="/signup" element={<Signup/>}/>
           <Route exact path="/login" element={<Login/>}/>
-          <Route exact path="/nav" element={<SideNavbar/>}/>
+          <Route exact path="/" element={<SideNavbar/>}/>
 
         
           <Route exact path="/room" element={<Room/>}/>
