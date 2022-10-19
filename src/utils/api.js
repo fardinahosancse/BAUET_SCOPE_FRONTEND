@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const  bauetServerAPI = 'https://bauetscope-server.herokuapp.com/api'
+const  bauetServerAPI = 'https://sync-scope.herokuapp.com/api'
 
 
 

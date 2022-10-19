@@ -4,7 +4,7 @@ import store from "../store/store";
 import * as WebRTCHandler from "./webRTCHandler";
 import { useAuthContext } from './../hooks/useAuthContext';
 
-const BAUET_SCOPE_SERVER = "https://bauetscope-server.herokuapp.com/";
+const BAUET_SCOPE_SERVER = "https://sync-scope.herokuapp.com/";
 
 let socket = null;
 
