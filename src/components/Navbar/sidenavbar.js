@@ -66,7 +66,7 @@ function SideNavbar() {
           </div>
         </li>
         <li>
-          <a href="#">
+          <a href="https://syncx.netlify.app/">
             <i class="bx bx-cube"></i>
             <span className="link_name">Bauet Box</span>
           </a>
